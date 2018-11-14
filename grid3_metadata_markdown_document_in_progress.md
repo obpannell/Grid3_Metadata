@@ -31,6 +31,30 @@ This is the a suggestion for a metadata template for GRID3. For more information
 3. [Data Processing Steps](dataprocessingsteps)
 4. [Further Information](furtherinformation)
 
+## Introduction <a name ="Introduction"></a>
+This section should include some introductory text about the dataset
+
+## Data Description <a name ="Data Description"></a>
+This is a section for a detailed description and explanation of the data. 
+This is also a potential area to put any [Source](www.grid3.org)
+
+### Processing steps <a name ="Processing Steps"></a>
+This is an area to list any major processing steps. You can do it as a list like so:
+- a was done
+- b was edited
+- c was then produced and manipulated
+- d is our output
+
+## Previous Versions <a name ="Previous Versions"></a>
+| Version no.  |      Edit       |  Archived |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+## Further Infomation <a name ="Further Information"></a>
+An area to detail any updates to the file 
+
 
 dotnet/docs template contains examples of Markdown syntax, as well as guidance on setting the metadata. To get the most of it, you must view both the [raw Markdown](https://raw.githubusercontent.com/dotnet/docs/master/styleguide/template.md) and the [rendered view](https://github.com/dotnet/docs/blob/master/styleguide/template.md) (for instance, the raw Markdown shows the metadata block, while the rendered view does not).
 
