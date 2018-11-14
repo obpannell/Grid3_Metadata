@@ -23,7 +23,14 @@ version: [VERSION OF DATASET]
 ---
 # GRID3 Metadata Template
 
-This is the a suggestion for a metadata template for GRID3. 
+This is the a suggestion for a metadata template for GRID3. For more information on what should be included please look at the content below:.
+
+## Table of Contents
+1. [Introduction](#indrouction)
+2. [Data Description](#datadescription)
+3. [Data Processing Steps](dataprocessingsteps)
+4. [Further Information](furtherinformation)
+
 
 dotnet/docs template contains examples of Markdown syntax, as well as guidance on setting the metadata. To get the most of it, you must view both the [raw Markdown](https://raw.githubusercontent.com/dotnet/docs/master/styleguide/template.md) and the [rendered view](https://github.com/dotnet/docs/blob/master/styleguide/template.md) (for instance, the raw Markdown shows the metadata block, while the rendered view does not).
 
