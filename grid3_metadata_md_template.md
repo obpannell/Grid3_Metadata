@@ -2,14 +2,17 @@
 # required/recommended metadata
 
 dataset_name: [Dataset_Name]
-description:
-author: [WPFM Employee]
+extent: [Upper Right ; Lower Left]
+created by: [WPFM Employee]
+resolution: [0.00083333333 x 0.00083333333 (approximately 100m at the Equator)]
+data type: [fill in data type]
+no data value: [fill in no data value]
+srs: [EPSG: 4326 (WGS84)]
+output file name: [file name]
+output file path: [file path here]
 date: [CREATION/UPDATE DATE - mm/dd/yyyy]
 version: [VERSION OF DATASET]
-location: [Filepath location]
-ms.topic: [TOPIC TYPE]
-ms.prod: [PRODUCT VALUE]
-helpviewer_keywords: [OFFLINE BOOK INDEX ENTRIES]
+
 
 # optional metadata
 
