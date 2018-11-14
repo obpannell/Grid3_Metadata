@@ -36,7 +36,7 @@ This section should include some introductory text about the dataset
 
 ## Data Description <a name ="Data Description"></a>
 This is a section for a detailed description and explanation of the data. 
-This is also a potential area to put any [Source](www.grid3.org)
+This is also a potential area to put any [Source](https://www.grid3.org)
 
 ### Processing steps <a name ="Processing Steps"></a>
 This is an area to list any major processing steps. You can do it as a list like so:
