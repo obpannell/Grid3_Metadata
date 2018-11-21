@@ -1,6 +1,6 @@
-Author: Oliver Pannell
-Date: 21/11/2018
-Project: GRIDsup>3</sup>
+*   Author: Oliver Pannell
+*   Date: 21/11/2018
+*   Project: GRIDsup>3</sup>
 
 
 
