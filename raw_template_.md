@@ -1,6 +1,6 @@
-:: Author = Oliver Pannell 
-:: Project = Grid3
-:: Date = 21_11_2018
+[//]: <> Author = Oliver Pannell 
+[//]: <> Project = Grid3
+[//]: <> Date = 21_11_2018
 
 
 GRID<sup>3</sup> Metadata Document
